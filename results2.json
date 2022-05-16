@@ -1,0 +1,114 @@
+{
+    "/TRADITIONAL MER.pdf":[
+        {
+            "content": {
+            "text": "Problem # 1: CAD (ICD-414.00) (1C010-125. 10) jaw pain with exertion, had negative cath in 2012 in the setting of chest and jaw pain will get a stress test cardiac meds "
+          },
+          "position": {
+            "boundingRect": {
+                "x1": 31.989013671875,
+                  "y1": 346.1529541015625,
+                  "x2": 498.037109375,
+                  "y2": 409.2935791015625,
+                  "width": 744.9999999999999,
+                  "height": 964.1176470588234,
+                  "pageNumber": 1
+              },
+              "rects": [
+                  {
+                    "x1": 20.8101806640625,
+                   "y1": 340.1529541015625,
+                   "x2": 575.9287109375,
+                   "y2": 416.1529541015625,
+                   "width": 744.9999999999999,
+                   "height": 964.1176470588234,
+                   "pageNumber": 1
+                  }
+                
+              ],
+              "pageNumber": 1
+          },
+          "comment": {
+            "text": "highlight Text 1 File2",
+             "emoji": "🔥"
+          },
+          "id": "101",
+          "matches":  0
+      },
+    
+      {
+        "content": {
+            "text": "Problem # 1: CAD (ICD-414.00) (1C010-125. 10) jaw pain with exertion, had negative cath in 2012 in the setting of chest and jaw pain will get a stress test cardiac m"
+        },
+        "position": {
+            "boundingRect": {
+                "x1": 75.801025390625,
+                "y1": 156.78848266601562,
+                "x2": 498.037109375,
+                "y2": 218.9967041015625,
+                "width": 744.9999999999999,
+                "height": 964.1176470588234,
+                "pageNumber": 2
+            },
+            "rects": [
+                {
+                    "x1": 20.8101806640625,
+                    "y1": 150.78848266601562,
+                    "x2": 575.9287109375,
+                    "y2": 226.78848266601562,
+                    "width": 744.9999999999999,
+                    "height": 964.1176470588234,
+                    "pageNumber": 2
+                }
+               
+            ],
+            "pageNumber": 2
+        },
+        "comment": {
+            "text": "Highlight text 2 File2",
+            "emoji": "😳"
+        },
+        "id": "102",
+        "matches":  2
+    },
+    
+    {
+        "content": {
+        "text": "Problem # 1: CAD (ICD-414.00) (1C010-125. 10) jaw pain with exertion, had negative cath in 2012 in the setting of chest and jaw pain will get a stress test cardiac me"
+      },
+      "position": {
+        "boundingRect": {
+            "x1": 75.801025390625,
+              "y1": 156.78848266601562,
+              "x2": 498.037109375,
+              "y2": 218.9967041015625,
+              "width": 744.9999999999999,
+              "height": 964.1176470588234,
+              "pageNumber": 3
+          },
+          "rects": [
+              {
+                "x1": 20.8101806640625,
+                  "y1": 150.78848266601562,
+                  "x2": 575.9287109375,
+                  "y2": 226.78848266601562,
+                  "width": 744.9999999999999,
+                  "height": 964.1176470588234,
+                  "pageNumber": 3
+              }
+             
+          ],
+          "pageNumber": 3
+      },
+      "comment": {
+        "text": "Highlight Text 3 File2",
+          "emoji": "⚠️"
+      },
+      "id": "103",
+      "matches":  0
+    }
+    
+    
+         
+      ]
+}

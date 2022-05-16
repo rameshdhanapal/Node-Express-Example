@@ -1,0 +1,39 @@
+{
+    "/HITMER.pdf":[
+      {
+        "content": {
+            "text": "Problem # 1: CAD (ICD-414.00) (1C010-125. 10) jaw pain with exertion, had negative cath in 2012 in the setting of chest and jaw pain will get a stress test cardiac meds "
+        },
+        "position": {
+            "boundingRect": {
+            "x1": 31.98529052734375,
+            "y1": 345.68682861328125,
+            "x2": 497.41912841796875,
+            "y2": 408.74932861328125,
+            "width": 743.9999999999999,
+            "height": 962.8235294117646,
+            "pageNumber": 1
+          },
+          "rects": [
+            {
+                "x1": 20.74737548828125,
+               "y1": 340.68682861328125,
+               "x2": 526.55462646484375,
+               "y2": 415.68682861328125,
+               "width": 743.9999999999999,
+               "height": 962.8235294117646,
+               "pageNumber": 1
+            }
+            
+        ],
+        "pageNumber": 1
+        },
+        "comment": {
+            "text": " highlight text 1 file 2 ",
+          "emoji": "😳"
+        },
+        "id": "100",
+        "matches":  3
+      }
+    ]
+}
