@@ -24,7 +24,7 @@
                    "height": 964.1176470588234,
                    "pageNumber": 1
                   }
-                
+
               ],
               "pageNumber": 1
           },
@@ -35,7 +35,7 @@
           "id": "101",
           "matches":  0
       },
-    
+
       {
         "content": {
             "text": "Problem # 1: CAD (ICD-414.00) (1C010-125. 10) jaw pain with exertion, had negative cath in 2012 in the setting of chest and jaw pain will get a stress test cardiac m"
@@ -60,7 +60,7 @@
                     "height": 964.1176470588234,
                     "pageNumber": 2
                 }
-               
+
             ],
             "pageNumber": 2
         },
@@ -71,7 +71,7 @@
         "id": "102",
         "matches":  2
     },
-    
+
     {
         "content": {
         "text": "Problem # 1: CAD (ICD-414.00) (1C010-125. 10) jaw pain with exertion, had negative cath in 2012 in the setting of chest and jaw pain will get a stress test cardiac me"
@@ -96,7 +96,7 @@
                   "height": 964.1176470588234,
                   "pageNumber": 3
               }
-             
+
           ],
           "pageNumber": 3
       },
@@ -107,8 +107,8 @@
       "id": "103",
       "matches":  0
     }
-    
-    
-         
+
+
+
       ]
 }
